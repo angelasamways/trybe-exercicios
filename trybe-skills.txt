@@ -1,1 +1,6 @@
 - SoftSkills
+- Unix
+- Bash
+- Git
+- HTML
+- CSS
